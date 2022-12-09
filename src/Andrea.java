@@ -1,6 +1,7 @@
 
 public class Andrea {
 
+
 	String nombre;
 	String apellido;
 	
@@ -10,5 +11,5 @@ public class Andrea {
 		this.apellido = apellido;
 	}
 	
-	
+
 }
